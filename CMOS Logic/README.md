@@ -1,4 +1,6 @@
 # CMOS Logic 
+Note: This is coppied as is from my lab report as a junior student for ECE.
+
 
 
 # Abstract
