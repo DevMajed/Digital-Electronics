@@ -1,4 +1,7 @@
 # CMOS Inverter ( The Building Bllock For Most CMOS Logic )
+Note: This is coppied as is from my lab report as a junior student for ECE.
+
+
 
 # Abstract
 In this lab, a CMOS logic gate that realizes a Boolean function will be designed using a signal CD 4007 chip. In order to obtain the PUN and The PDN of circuit, De-Morgan should be applied to the function. The second part of the lab is testing the switching speed. In this part the delay caused by the capacitance of the circuit  will be measured using the oscilloscope. 
