@@ -14,9 +14,11 @@ Combinational logic circuits are logic circuits that have an output at anytime d
 
 # Methods
 
-The first step was to find the correct expressions for PDN and PUN. In order to find that the function F=  ( A + BC )` changed to be F` = A + BC, which will be the function for PUN. Then, to find the function for PDN De-Morgan was used as follows
-F =  ( A + BC )`
-F =  ( (A)` . ( B` + C` )
+The first step was to find the correct expressions for PDN and PUN. In order to find that the function \
+F=  ( A + BC )` changed to be F` = A + BC, which will be the function for PUN. \
+Then, to find the function for PDN De-Morgan was used as follows \
+F =  ( A + BC )` \
+F =  ( (A)` . ( B` + C` ) \
 Figure 1 shows the Circuit diagram that was obtained by connected two networks of PUN and PDN. \
 
 figure 1:
