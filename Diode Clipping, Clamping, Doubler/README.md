@@ -1,4 +1,6 @@
 # Diode Clipping, Clamping, Doubler
+Note: This is coppied as is from my lab report as a junior student for ECE.
+
 
 # Abstract
 In this lab, three diode circuits were tested in order to understand how a diode can determine the behavior of a circuit. The first circuit is the diode clipping circuit, which should have an output that is restricted by a diode. The second circuit is the clamping circuit, which is a circuit that has a diode and a capacitor that is used to change the waveform to a specific DC level. The last circuit that will be tested is the voltage doubler, which is a circuit consisting of diodes and capacitors that gives an output that is double the input.
