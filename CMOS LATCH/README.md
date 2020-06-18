@@ -17,15 +17,22 @@ To build the circuit, pin 2 was connected to VDD, from pin 14, and pin 4 was con
 
 Figure 2: connecting triggering input to Vdd.
 
+
 <img width="214" alt="image" src="https://user-images.githubusercontent.com/66625688/84991448-86f6b980-b114-11ea-9ea8-04d5b9c8e4ae.png">
 
 Figure 2: connecting triggering input to ground.
+
+
 <img width="219" alt="image" src="https://user-images.githubusercontent.com/66625688/84991456-88c07d00-b114-11ea-963a-e13f75c59005.png">
 
 Figure 3:VTC using the X-Y mode
+
+
 <img width="217" alt="image" src="https://user-images.githubusercontent.com/66625688/84991465-8c540400-b114-11ea-8cc2-3e7860b22700.png">
 
 Figure 4: The Normal Mode while applying  an AC
+
+
 <img width="220" alt="image" src="https://user-images.githubusercontent.com/66625688/84991471-8e1dc780-b114-11ea-9594-89dcf6b87f80.png">
 
 
