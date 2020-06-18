@@ -11,30 +11,27 @@ Latches are sequential circuits that considered to be the basic memory elements.
 # Methods
 To build the circuit, pin 2 was connected to VDD, from pin 14, and pin 4 was connected to ground. This was done to form the first inviter, which its output is taken from pin 1 and pin 5 after they are connected, and its input is from pin 3. This output  of the first inverter will be donated as Q`, and it will be sent as an input of the second inviter, to pin 6. Pin 14 and 7 are already connected to Vdd and ground so they will be used as the second inverter. The output of this second inviter is taken from pins 13 and 8 by connecting them together. This output voltage will be donated as Q, and it will be connected by a wire to pin 3, to form a positive feedback loop to the first inverter. To build the trigging circuit, a voltage source was connected to a wire in the breadboard, and it was used as a switch. The switch open when the wire is not connected, and it is closed when the wire is connected. This switch was connected to a 100 Ω resistor and the other side of the resistor was connected to pin 3. To test the storage ability of the circuit, the wire was connected to form a closed switch, and  a high voltage applied. The wire then was removed, and the measurements were taken and reported as in the result section of this report. Then, the resistor was connected to ground in order to give a path to the charge to leave. The measurements were taken again to see whether the circuit is re acting to the triggering zero input. Lastly, to study the VTC of the latch, the function generator was set to 0 to 5V sine wave  at 200Hz and it was connected as the input through R1. After setting the oscilloscope to x-y mode, the first probe was used as for the X value, it was connected at the resistor, and the second prob was connected to the interconnection of pin 5 and 1, which is the output Q`. \
 
-<img width="165" alt="image" src="https://user-images.githubusercontent.com/66625688/84991406-76deda00-b114-11ea-8f24-74c9197f9ce5.png">
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/66625688/84991605-c2918380-b114-11ea-94fa-478145e9c03d.png">
 
 # Results
 
 Figure 2: connecting triggering input to Vdd.
 
 
-<img width="214" alt="image" src="https://user-images.githubusercontent.com/66625688/84991448-86f6b980-b114-11ea-9ea8-04d5b9c8e4ae.png">
+<img width="445" alt="image" src="https://user-images.githubusercontent.com/66625688/84991679-dd63f800-b114-11ea-9f26-36f3d268e4c2.png">
 
-Figure 2: connecting triggering input to ground.
+Figure 3: connecting triggering input to ground.
 
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/66625688/84991698-e2c14280-b114-11ea-9084-f26ad69b9ae7.png">
 
-<img width="219" alt="image" src="https://user-images.githubusercontent.com/66625688/84991456-88c07d00-b114-11ea-963a-e13f75c59005.png">
 
 Figure 3:VTC using the X-Y mode
 
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/66625688/84991706-e5239c80-b114-11ea-8481-48316c9bc661.png">
 
-<img width="217" alt="image" src="https://user-images.githubusercontent.com/66625688/84991465-8c540400-b114-11ea-8cc2-3e7860b22700.png">
 
 Figure 4: The Normal Mode while applying  an AC
 
-
-<img width="220" alt="image" src="https://user-images.githubusercontent.com/66625688/84991471-8e1dc780-b114-11ea-9594-89dcf6b87f80.png">
-
-
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/66625688/84991715-e785f680-b114-11ea-87ea-d0f410f9d12e.png">
 
 
