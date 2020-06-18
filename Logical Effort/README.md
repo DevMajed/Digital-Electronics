@@ -1,1 +1,1 @@
-# Digital-Electronics
+# The method of Logical Effort
