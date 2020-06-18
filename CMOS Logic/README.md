@@ -45,4 +45,15 @@ For the second part of the lab, the function generator was set to produce 0 to 5
 
 
 
+# Results
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/66625688/84992642-2d8f8a00-b116-11ea-930c-b5e49916eac8.png">
+
+# Discussion
+
+In the first part of the lab the Boolean function was used to generate two separate circuits that both combine in the final output. This was done because the NMOS transistor operate as switch on when it has a high input voltage, and it acts as open when low input voltage applied. The PMOS transistor acts exactly the opposite. Combating the two circuits will insure that all input combinations will provide the desired output in the truth table shown in table 1. In the top circuit of figure 1, A was set in series with the parallel B and C. this was done to represent the AND gate, which produce 1 when both transistors are ON. The B and C were set in parallel to represent the OR gate, which produce and output of 1 when either transistors is ON. The result was obtained for all input combinations as expected after building the circuit. For the second part of the lab, it was expected to find a propagation delay since six transistors were used and each transistor has multiple capacitances. After a transistor turn ON, the gate can be replaced with a small transistor and the transistor capacitor start charging and then it starts to discharge its voltage to the output. These charging and discharging case the propagations delays in the transistors. Using the oscilloscope, the raise and fall times and the probations delays. The propagation delay of the CMOS circuit was ten found as the average of the Tphl Tplh that was found in table 2. \
+
+Tp = ½ ( Tplh + Tphl ) \
+Tp = ½ ( 47.90 ns + 21.60 ns  ) \
+Tp = 0.00000003 seconds.
+
 
